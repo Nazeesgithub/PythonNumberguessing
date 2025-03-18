@@ -1,2 +1,2 @@
 # PythonNumberguessing
-It is a number guessing game with limited attempts and calculate tie took to complete the game
+It is a number guessing game with limited attempts and calculate time took to complete the game
